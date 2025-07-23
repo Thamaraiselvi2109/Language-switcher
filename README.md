@@ -1,4 +1,4 @@
-# 🌐 React Language Switcher App
+# 🌐 React Language Switcher App - https://language-switcher-thamarai.netlify.app/
 
 A simple and responsive **language switcher application** built using **React**, **Tailwind CSS**, and **react-i18next** for internationalization support. The app demonstrates how to switch between multiple languages dynamically using a global context.
 
