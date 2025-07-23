@@ -1,12 +1,31 @@
-# React + Vite
+# 🌐 React Language Switcher App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **language switcher application** built using **React**, **Tailwind CSS**, and **react-i18next** for internationalization support. The app demonstrates how to switch between multiple languages dynamically using a global context.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🌍 Switch between English, French, and Hindi
+- ⚛️ Built with React and React Context API
+- 🎨 Styled with Tailwind CSS
+- 🌐 Internationalization using `react-i18next`
+- 💡 Clean and readable UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Preview](screenshot.png) <!-- (Add screenshot if available) -->
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- Context API
+- react-i18next
+- Tailwind CSS
+- Vite (for dev server and fast bundling)
+
+---
